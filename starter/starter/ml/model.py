@@ -1,4 +1,7 @@
 from sklearn.metrics import fbeta_score, precision_score, recall_score
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.model_selection import GridSearchCV
+import pickle
 
 
 # Optional: implement hyperparameter tuning.
@@ -18,7 +21,31 @@ def train_model(X_train, y_train):
         Trained machine learning model.
     """
 
-    pass
+    model = GradientBoostingClassifier()
+
+    hyperparam_space = {
+        "learning_rate": (1e-2, 1e-3, 1e-4),
+        "n_estimators": (10, 50, 100),
+        "max_depth": [5, 10]
+    }
+
+    classifier = GridSearchCV(model, hyperparam_space, n_jobs=-1, verbose=2)
+    classifier.fit(X_train, y_train)
+
+    best_model = classifier.best_estimator_
+    picked_hyperparams = classifier.best_params_
+    best_score = classifier.best_score_
+
+    print('Best model: %s Hyperparams: %s best score: %s' %
+          (best_model, picked_hyperparams, best_score))
+
+    model_path = 'model/gb_model.pkl'
+    with open(model_path, 'wb') as f:
+        pickle.dump(model, f)
+
+    print('GB model saved to %s' % model_path)
+
+    return best_model
 
 
 def compute_model_metrics(y, preds):
@@ -57,4 +84,4 @@ def inference(model, X):
     preds : np.array
         Predictions from the model.
     """
-    pass
+    return model.predict(X)

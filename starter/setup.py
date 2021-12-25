@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="starter",
-    version="0.0.0",
-    description="Starter code.",
-    author="Student",
+    name="salary predictor",
+    version="0.1.0",
+    description="Fastapi service to predict salary based on person info.",
+    author="etolga.ayan",
 )
