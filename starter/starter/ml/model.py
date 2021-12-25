@@ -1,7 +1,6 @@
 from sklearn.metrics import fbeta_score, precision_score, recall_score
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.model_selection import GridSearchCV
-import pickle
 
 
 # Optional: implement hyperparameter tuning.
@@ -38,12 +37,6 @@ def train_model(X_train, y_train):
 
     print('Best model: %s Hyperparams: %s best score: %s' %
           (best_model, picked_hyperparams, best_score))
-
-    model_path = 'model/gb_model.pkl'
-    with open(model_path, 'wb') as f:
-        pickle.dump(model, f)
-
-    print('GB model saved to %s' % model_path)
 
     return best_model
 

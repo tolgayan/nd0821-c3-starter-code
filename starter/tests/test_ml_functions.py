@@ -25,7 +25,7 @@ def X(data):
         "native-country",
     ]
     train, _ = train_test_split(data, test_size=0.20)
-    X, y, _, _ = process_data(
+    X, _, _, _ = process_data(
         train, categorical_features=cat_features, label="salary", training=True
     )
 
