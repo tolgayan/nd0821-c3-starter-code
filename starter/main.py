@@ -1,13 +1,19 @@
 # Put the code for your API here.
 
 import os
+import subprocess
+
 
 if "DYNO" in os.environ and os.path.isdir(".dvc"):
     os.system("dvc config core.no_scm true")
-    res = os.system("dvc pull -r s3bucket")
-    if res != 0:
-        exit("dvc pull failed. %s" % res)
-    os.system("rm -r .dvc .apt/usr/lib/dvc")
+    dvc_output = subprocess.run(
+        ["dvc", "pull"], capture_output=True, text=True)
+    print(dvc_output.stdout)
+    print(dvc_output.stderr)
+    if dvc_output.returncode != 0:
+        print("dvc pull failed")
+    else:
+        os.system("rm -r .dvc .apt/usr/lib/dvc")
 
 
 from fastapi import FastAPI
