@@ -1,8 +1,8 @@
 # Put the code for your API here.
 
 from fastapi import FastAPI
-from starter.basemodel import Data
-from starter.infer import infer
+from starter.starter.basemodel import Data
+from starter.starter.infer import infer
 import os
 
 

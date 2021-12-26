@@ -1,17 +1,17 @@
 import pickle
-from starter.basemodel import Data
-from starter.ml.data import process_data
-from starter.ml.model import inference
+from starter.starter.basemodel import Data
+from starter.starter.ml.data import process_data
+from starter.starter.ml.model import inference
 import pandas as pd
 
 
-with open('model/gb_model.pkl', 'rb') as f:
+with open('starter/model/gb_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open('model/encoder.pkl', 'rb') as f:
+with open('starter/model/encoder.pkl', 'rb') as f:
     encoder = pickle.load(f)
 
-with open('model/lb.pkl', 'rb') as f:
+with open('starter/model/lb.pkl', 'rb') as f:
     lb = pickle.load(f)
 
 
