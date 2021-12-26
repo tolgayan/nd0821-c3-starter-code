@@ -4,7 +4,7 @@ import os
 
 if "DYNO" in os.environ and os.path.isdir(".dvc"):
     os.system("dvc config core.no_scm true")
-    res = os.system("dvc pull") 
+    res = os.system("dvc pull")
     if res != 0:
         exit("dvc pull failed. %s" % res)
     os.system("rm -r .dvc .apt/usr/lib/dvc")
