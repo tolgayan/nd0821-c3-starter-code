@@ -42,10 +42,18 @@ precision, recall, fbeta = compute_model_metrics(y_test, y_test_pred)
 
 
 model_path = 'model/gb_model.pkl'
+encoder_path = 'model/encoder.pkl'
+lb_path = 'model/lb.pkl'
 model_info_path = 'model/gb_model.info'
 
 with open(model_path, 'wb') as f:
     pickle.dump(model, f)
+
+with open(encoder_path, 'wb') as f:
+    pickle.dump(encoder, f)
+
+with open(lb_path, 'wb') as f:
+    pickle.dump(lb, f)
 
 with open(model_info_path, 'w') as f:
     f.write('Precision: %.3f\nRecall:%.3f\nfbeta:%.3f' %
