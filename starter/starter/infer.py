@@ -53,6 +53,6 @@ def infer(data: Data):
 
     pred = inference(model, processed_row)[0]
     if pred == 0:
-        return '50k<'
+        return '<=50K'
     if pred == 1:
-        return '50k>='
+        return '>50k'
