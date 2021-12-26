@@ -1,0 +1,594 @@
+Model metrics for education features
+
+
+Feature value: Bachelors
+Precision: 0.8541310541310542
+Recall: 0.6749212066636651
+F1 Beta: 0.7540241448692153
+
+
+Feature value: HS-grad
+Precision: 0.9846547314578005
+Recall: 0.2298507462686567
+F1 Beta: 0.3727008712487899
+
+
+Feature value: 11th
+Precision: 1.0
+Recall: 0.36666666666666664
+F1 Beta: 0.5365853658536585
+
+
+Feature value: Masters
+Precision: 0.8741935483870967
+Recall: 0.8477580813347236
+F1 Beta: 0.8607728957120169
+
+
+Feature value: 9th
+Precision: 1.0
+Recall: 0.18518518518518517
+F1 Beta: 0.3125
+
+
+Feature value: Some-college
+Precision: 0.9942028985507246
+Recall: 0.247296322999279
+F1 Beta: 0.3960739030023095
+
+
+Feature value: Assoc-acdm
+Precision: 0.9772727272727273
+Recall: 0.32452830188679244
+F1 Beta: 0.4872521246458924
+
+
+Feature value: Assoc-voc
+Precision: 0.9885057471264368
+Recall: 0.23822714681440443
+F1 Beta: 0.3839285714285714
+
+
+Feature value: 7th-8th
+Precision: 1.0
+Recall: 0.25
+F1 Beta: 0.4
+
+
+Feature value: Doctorate
+Precision: 0.9041533546325878
+Recall: 0.9248366013071896
+F1 Beta: 0.9143780290791599
+
+
+Feature value: Prof-school
+Precision: 0.9364705882352942
+Recall: 0.9408983451536643
+F1 Beta: 0.9386792452830189
+
+
+Feature value: 5th-6th
+Precision: 1.0
+Recall: 0.375
+F1 Beta: 0.5454545454545454
+
+
+Feature value: 10th
+Precision: 0.9411764705882353
+Recall: 0.25806451612903225
+F1 Beta: 0.4050632911392405
+
+
+Feature value: 1st-4th
+Precision: 1.0
+Recall: 0.16666666666666666
+F1 Beta: 0.2857142857142857
+
+
+Feature value: Preschool
+Precision: 1.0
+Recall: 1.0
+F1 Beta: 1.0
+
+
+Feature value: 12th
+Precision: 1.0
+Recall: 0.2727272727272727
+F1 Beta: 0.42857142857142855
+
+
+Model metrics for education features
+
+
+Feature value: Bachelors
+Precision: 0.8541310541310542
+Recall: 0.6749212066636651
+F1 Beta: 0.7540241448692153
+
+
+Feature value: HS-grad
+Precision: 0.9846547314578005
+Recall: 0.2298507462686567
+F1 Beta: 0.3727008712487899
+
+
+Feature value: 11th
+Precision: 1.0
+Recall: 0.36666666666666664
+F1 Beta: 0.5365853658536585
+
+
+Feature value: Masters
+Precision: 0.8741935483870967
+Recall: 0.8477580813347236
+F1 Beta: 0.8607728957120169
+
+
+Feature value: 9th
+Precision: 1.0
+Recall: 0.18518518518518517
+F1 Beta: 0.3125
+
+
+Feature value: Some-college
+Precision: 0.9942028985507246
+Recall: 0.247296322999279
+F1 Beta: 0.3960739030023095
+
+
+Feature value: Assoc-acdm
+Precision: 0.9772727272727273
+Recall: 0.32452830188679244
+F1 Beta: 0.4872521246458924
+
+
+Feature value: Assoc-voc
+Precision: 0.9885057471264368
+Recall: 0.23822714681440443
+F1 Beta: 0.3839285714285714
+
+
+Feature value: 7th-8th
+Precision: 1.0
+Recall: 0.25
+F1 Beta: 0.4
+
+
+Feature value: Doctorate
+Precision: 0.9041533546325878
+Recall: 0.9248366013071896
+F1 Beta: 0.9143780290791599
+
+
+Feature value: Prof-school
+Precision: 0.9364705882352942
+Recall: 0.9408983451536643
+F1 Beta: 0.9386792452830189
+
+
+Feature value: 5th-6th
+Precision: 1.0
+Recall: 0.375
+F1 Beta: 0.5454545454545454
+
+
+Feature value: 10th
+Precision: 0.9411764705882353
+Recall: 0.25806451612903225
+F1 Beta: 0.4050632911392405
+
+
+Feature value: 1st-4th
+Precision: 1.0
+Recall: 0.16666666666666666
+F1 Beta: 0.2857142857142857
+
+
+Feature value: Preschool
+Precision: 1.0
+Recall: 1.0
+F1 Beta: 1.0
+
+
+Feature value: 12th
+Precision: 1.0
+Recall: 0.2727272727272727
+F1 Beta: 0.42857142857142855
+
+
+Model metrics for education features
+
+
+Feature value: Bachelors
+Precision: 0.8541310541310542
+Recall: 0.6749212066636651
+F1 Beta: 0.7540241448692153
+
+
+Feature value: HS-grad
+Precision: 0.9846547314578005
+Recall: 0.2298507462686567
+F1 Beta: 0.3727008712487899
+
+
+Feature value: 11th
+Precision: 1.0
+Recall: 0.36666666666666664
+F1 Beta: 0.5365853658536585
+
+
+Feature value: Masters
+Precision: 0.8741935483870967
+Recall: 0.8477580813347236
+F1 Beta: 0.8607728957120169
+
+
+Feature value: 9th
+Precision: 1.0
+Recall: 0.18518518518518517
+F1 Beta: 0.3125
+
+
+Feature value: Some-college
+Precision: 0.9942028985507246
+Recall: 0.247296322999279
+F1 Beta: 0.3960739030023095
+
+
+Feature value: Assoc-acdm
+Precision: 0.9772727272727273
+Recall: 0.32452830188679244
+F1 Beta: 0.4872521246458924
+
+
+Feature value: Assoc-voc
+Precision: 0.9885057471264368
+Recall: 0.23822714681440443
+F1 Beta: 0.3839285714285714
+
+
+Feature value: 7th-8th
+Precision: 1.0
+Recall: 0.25
+F1 Beta: 0.4
+
+
+Feature value: Doctorate
+Precision: 0.9041533546325878
+Recall: 0.9248366013071896
+F1 Beta: 0.9143780290791599
+
+
+Feature value: Prof-school
+Precision: 0.9364705882352942
+Recall: 0.9408983451536643
+F1 Beta: 0.9386792452830189
+
+
+Feature value: 5th-6th
+Precision: 1.0
+Recall: 0.375
+F1 Beta: 0.5454545454545454
+
+
+Feature value: 10th
+Precision: 0.9411764705882353
+Recall: 0.25806451612903225
+F1 Beta: 0.4050632911392405
+
+
+Feature value: 1st-4th
+Precision: 1.0
+Recall: 0.16666666666666666
+F1 Beta: 0.2857142857142857
+
+
+Feature value: Preschool
+Precision: 1.0
+Recall: 1.0
+F1 Beta: 1.0
+
+
+Feature value: 12th
+Precision: 1.0
+Recall: 0.2727272727272727
+F1 Beta: 0.42857142857142855
+
+
+Model metrics for education features
+
+
+Feature value: Bachelors
+Precision: 0.8541310541310542
+Recall: 0.6749212066636651
+F1 Beta: 0.7540241448692153
+
+
+Feature value: HS-grad
+Precision: 0.9846547314578005
+Recall: 0.2298507462686567
+F1 Beta: 0.3727008712487899
+
+
+Feature value: 11th
+Precision: 1.0
+Recall: 0.36666666666666664
+F1 Beta: 0.5365853658536585
+
+
+Feature value: Masters
+Precision: 0.8741935483870967
+Recall: 0.8477580813347236
+F1 Beta: 0.8607728957120169
+
+
+Feature value: 9th
+Precision: 1.0
+Recall: 0.18518518518518517
+F1 Beta: 0.3125
+
+
+Feature value: Some-college
+Precision: 0.9942028985507246
+Recall: 0.247296322999279
+F1 Beta: 0.3960739030023095
+
+
+Feature value: Assoc-acdm
+Precision: 0.9772727272727273
+Recall: 0.32452830188679244
+F1 Beta: 0.4872521246458924
+
+
+Feature value: Assoc-voc
+Precision: 0.9885057471264368
+Recall: 0.23822714681440443
+F1 Beta: 0.3839285714285714
+
+
+Feature value: 7th-8th
+Precision: 1.0
+Recall: 0.25
+F1 Beta: 0.4
+
+
+Feature value: Doctorate
+Precision: 0.9041533546325878
+Recall: 0.9248366013071896
+F1 Beta: 0.9143780290791599
+
+
+Feature value: Prof-school
+Precision: 0.9364705882352942
+Recall: 0.9408983451536643
+F1 Beta: 0.9386792452830189
+
+
+Feature value: 5th-6th
+Precision: 1.0
+Recall: 0.375
+F1 Beta: 0.5454545454545454
+
+
+Feature value: 10th
+Precision: 0.9411764705882353
+Recall: 0.25806451612903225
+F1 Beta: 0.4050632911392405
+
+
+Feature value: 1st-4th
+Precision: 1.0
+Recall: 0.16666666666666666
+F1 Beta: 0.2857142857142857
+
+
+Feature value: Preschool
+Precision: 1.0
+Recall: 1.0
+F1 Beta: 1.0
+
+
+Feature value: 12th
+Precision: 1.0
+Recall: 0.2727272727272727
+F1 Beta: 0.42857142857142855
+
+
+Model metrics for education features
+
+
+Feature value: Bachelors
+Precision: 0.8541310541310542
+Recall: 0.6749212066636651
+F1 Beta: 0.7540241448692153
+
+
+Feature value: HS-grad
+Precision: 0.9846547314578005
+Recall: 0.2298507462686567
+F1 Beta: 0.3727008712487899
+
+
+Feature value: 11th
+Precision: 1.0
+Recall: 0.36666666666666664
+F1 Beta: 0.5365853658536585
+
+
+Feature value: Masters
+Precision: 0.8741935483870967
+Recall: 0.8477580813347236
+F1 Beta: 0.8607728957120169
+
+
+Feature value: 9th
+Precision: 1.0
+Recall: 0.18518518518518517
+F1 Beta: 0.3125
+
+
+Feature value: Some-college
+Precision: 0.9942028985507246
+Recall: 0.247296322999279
+F1 Beta: 0.3960739030023095
+
+
+Feature value: Assoc-acdm
+Precision: 0.9772727272727273
+Recall: 0.32452830188679244
+F1 Beta: 0.4872521246458924
+
+
+Feature value: Assoc-voc
+Precision: 0.9885057471264368
+Recall: 0.23822714681440443
+F1 Beta: 0.3839285714285714
+
+
+Feature value: 7th-8th
+Precision: 1.0
+Recall: 0.25
+F1 Beta: 0.4
+
+
+Feature value: Doctorate
+Precision: 0.9041533546325878
+Recall: 0.9248366013071896
+F1 Beta: 0.9143780290791599
+
+
+Feature value: Prof-school
+Precision: 0.9364705882352942
+Recall: 0.9408983451536643
+F1 Beta: 0.9386792452830189
+
+
+Feature value: 5th-6th
+Precision: 1.0
+Recall: 0.375
+F1 Beta: 0.5454545454545454
+
+
+Feature value: 10th
+Precision: 0.9411764705882353
+Recall: 0.25806451612903225
+F1 Beta: 0.4050632911392405
+
+
+Feature value: 1st-4th
+Precision: 1.0
+Recall: 0.16666666666666666
+F1 Beta: 0.2857142857142857
+
+
+Feature value: Preschool
+Precision: 1.0
+Recall: 1.0
+F1 Beta: 1.0
+
+
+Feature value: 12th
+Precision: 1.0
+Recall: 0.2727272727272727
+F1 Beta: 0.42857142857142855
+
+
+Model metrics for education features
+
+
+Feature value: Bachelors
+Precision: 0.8541310541310542
+Recall: 0.6749212066636651
+F1 Beta: 0.7540241448692153
+
+
+Feature value: HS-grad
+Precision: 0.9846547314578005
+Recall: 0.2298507462686567
+F1 Beta: 0.3727008712487899
+
+
+Feature value: 11th
+Precision: 1.0
+Recall: 0.36666666666666664
+F1 Beta: 0.5365853658536585
+
+
+Feature value: Masters
+Precision: 0.8741935483870967
+Recall: 0.8477580813347236
+F1 Beta: 0.8607728957120169
+
+
+Feature value: 9th
+Precision: 1.0
+Recall: 0.18518518518518517
+F1 Beta: 0.3125
+
+
+Feature value: Some-college
+Precision: 0.9942028985507246
+Recall: 0.247296322999279
+F1 Beta: 0.3960739030023095
+
+
+Feature value: Assoc-acdm
+Precision: 0.9772727272727273
+Recall: 0.32452830188679244
+F1 Beta: 0.4872521246458924
+
+
+Feature value: Assoc-voc
+Precision: 0.9885057471264368
+Recall: 0.23822714681440443
+F1 Beta: 0.3839285714285714
+
+
+Feature value: 7th-8th
+Precision: 1.0
+Recall: 0.25
+F1 Beta: 0.4
+
+
+Feature value: Doctorate
+Precision: 0.9041533546325878
+Recall: 0.9248366013071896
+F1 Beta: 0.9143780290791599
+
+
+Feature value: Prof-school
+Precision: 0.9364705882352942
+Recall: 0.9408983451536643
+F1 Beta: 0.9386792452830189
+
+
+Feature value: 5th-6th
+Precision: 1.0
+Recall: 0.375
+F1 Beta: 0.5454545454545454
+
+
+Feature value: 10th
+Precision: 0.9411764705882353
+Recall: 0.25806451612903225
+F1 Beta: 0.4050632911392405
+
+
+Feature value: 1st-4th
+Precision: 1.0
+Recall: 0.16666666666666666
+F1 Beta: 0.2857142857142857
+
+
+Feature value: Preschool
+Precision: 1.0
+Recall: 1.0
+F1 Beta: 1.0
+
+
+Feature value: 12th
+Precision: 1.0
+Recall: 0.2727272727272727
+F1 Beta: 0.42857142857142855
+
+

@@ -16,20 +16,14 @@ with open('model/lb.pkl', 'rb') as f:
 
 
 def infer(data: Data):
-    # row = [[data.age,
-    #        data.workclass,
-    #        data.fnlgt,
-    #        data.education,
-    #        data.education_num,
-    #        data.marital_status,
-    #        data.occupation,
-    #        data.relationship,
-    #        data.race,
-    #        data.sex,
-    #        data.capital_gain,
-    #        data.capital_loss,
-    #        data.hours_per_week,
-    #        data.native_country]]
+    """Run inference for a given data
+
+    Args:
+        data (Data): data for inference
+
+    Returns:
+        str: prediction
+    """
 
     data = {key.replace('_', '-'): [value] for key, value in data.__dict__.items()}
 
