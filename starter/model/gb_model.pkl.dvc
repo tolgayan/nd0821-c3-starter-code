@@ -1,0 +1,4 @@
+outs:
+- md5: a7ecef7485428c173f5297f6677d4f2e
+  size: 3898091
+  path: gb_model.pkl
