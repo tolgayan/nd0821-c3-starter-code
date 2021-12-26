@@ -31,7 +31,7 @@ def test_positive_sample():
 
     with TestClient(app) as testapp:
         response = testapp.post("/", json=data)
-    
+
     assert response.status_code == 200
     assert response.json() == '<=50K'
 

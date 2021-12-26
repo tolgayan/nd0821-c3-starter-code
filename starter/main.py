@@ -14,5 +14,4 @@ def read_root():
 
 @app.post("/")
 async def create_item(data: Data):
-    print(data)
     return infer(data)
